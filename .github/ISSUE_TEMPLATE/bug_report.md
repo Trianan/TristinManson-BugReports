@@ -7,6 +7,7 @@ assignees: Trianan
 
 ---
 
+[BUG]
 **Software**
 What software the bug was discovered in.
 
